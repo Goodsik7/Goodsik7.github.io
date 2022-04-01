@@ -19,7 +19,9 @@ h1 {
 				background-color:#55001f;
 }
 img {
-				position:relative;
+				height:200px;
+				widht:50%;
+	                        position:relative;
 				right:30px;
 				top:30px;
 }
@@ -34,8 +36,4 @@ ul {
 				border-radius:15px;
 				color:#cf004d;
 				background-color:#55001f;
-}
-img {
-                                height:200px;
-				widht:50%;	
 }
