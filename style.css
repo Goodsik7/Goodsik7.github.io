@@ -18,7 +18,7 @@ h1 {
 				color:#cf004d;
 				background-color:#55001f;
 }
-img {
+img.sun {
 				height:200px;
 				widht:50%;
 	                        position:relative;
@@ -36,4 +36,15 @@ ul {
 				border-radius:15px;
 				color:#cf004d;
 				background-color:#55001f;
+}
+img {
+
+		
+
+	                        position:relative;
+
+				right:30px;
+
+				top:30px;
+
 }
